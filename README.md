@@ -10,6 +10,6 @@
 
   ![dstat](https://github.com/user-attachments/assets/b851eca1-e302-4963-95b4-75621bddcfde)
 
-- Much better if you have vps good proxies as well goodluck!
+- Much better if you have vps, good proxies, and botnet deployer goodluck!
 # **DISCLAIMER** 
 This tool is created for educational purposes and for authorized security testing and network stress analysis only. Using this tool against networks and servers without explicit permission is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
